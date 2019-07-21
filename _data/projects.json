@@ -10,7 +10,7 @@
 	{
 		"slug": "go-post-orbital",
 		"name": "Go Post! - NUS Orbital 2017",
-		"image": "static/projects/go_post/image/home_page.png",
+		"image": "go_post/image/home_page.png",
 		"url": "https://github.com/KhorSL/GoPost_Orbital2017",
 		"date": "Aug 2017",
 		"tags": ["Meteor.JS","Node.JS","JQuery","Web Development"]
