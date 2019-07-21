@@ -1,12 +1,12 @@
 [
 	{
-		"slug": "cool-project",
-		"name": "Cool project 1",
+		"slug": "placeholder-project",
+		"name": "Placeholder Project",
 		"image": "placeholder.jpg",
 		"url": "https://www.google.com",
 		"date": "Jan 2014",
 		"tags": ["Angular JS","API"]
-	},	
+	},
 	{
 		"slug": "go-post-orbital",
 		"name": "Go Post! - NUS Orbital 2017",
