@@ -1,11 +1,11 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+title: Khor Shao Liang
+description: Software Engineer
+author: Khor Shao Liang
+github: https://github.com/KhorSL
+about: I am a final year student in School of Computing at National University of Singapore. I am pursuing a Bachelor of Computing (Computer Science) specializing in Database Systems.
+# disqus_shortname: stackproblems
+# google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/avatar.jpeg
 
 enableTags: true
 tagarray: []
@@ -16,16 +16,16 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
+    # - icon: fa-facebook
+    #   link: "#"
+    # - icon: fa-twitter
+    #   link: "#"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/khorshaoliang/"
+    # - icon: fa-stack-exchange
+    #   link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/KhorSL"
 
 share:
   twitter_username: github.io
@@ -36,10 +36,12 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
+    - text: Resume
+      url: "https://registry.jsonresume.org/khorsl"
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://khorsl.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
