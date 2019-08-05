@@ -15,5 +15,12 @@
 		"date": "Aug 2017",
 		"tags": ["Meteor.JS","Node.JS","JQuery","Web Development"]
 	},
-
+	{
+		"slug": "remindeer-telegram-bot",
+		"name": "Remindeer Telegram Bot - Reminder Bot",
+		"image": "placeholder.jpg",
+		"url": "https://github.com/KhorSL/Remindeer-python",
+		"date": "Aug 2019",
+		"tags": ["Python","Telegram","Bot"]
+	}
 ]
