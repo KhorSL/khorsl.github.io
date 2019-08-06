@@ -22,5 +22,14 @@
 		"url": "https://github.com/KhorSL/Remindeer-python",
 		"date": "Aug 2019",
 		"tags": ["Python","Telegram","Bot"]
+	},
+	{
+		"slug": "weakipedia-telegram-bot",
+		"name": "Weakipedia Telegram Bot",
+		"image": "weakipedia_telegram_bot/image/wiki_bot_wiki_pycharm.jpg",
+		"url": "https://github.com/KhorSL/Wiki-telegram-bot",
+		"date": "Aug 2019",
+		"tags": ["Python","Telegram","Bot"]
 	}
+
 ]
