@@ -34,6 +34,13 @@ input#js-search__input {
   position: absolute;
   right: 12px;
 }
+.search__result-title {
+  display: inline-block;
+  width: 70%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
 .search.is-active {
   opacity: 1;
   visibility: visible;
