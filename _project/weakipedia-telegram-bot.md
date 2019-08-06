@@ -26,11 +26,14 @@ Despite having 'Weak' as part of its name, Weakipedia is no slouch! Weakipedia i
 
 ##### Example Response
 
-![wiki](/static/projects/weakipedia_telegram_bot/image/wiki_bot_wiki.gif)
+<p align="center">
+    <img src="/static/projects/weakipedia_telegram_bot/image/wiki_bot_wiki.gif" width="35%">
+</p>
 
 ___
 
 ### Help
+
 
 #### Example Command
 
