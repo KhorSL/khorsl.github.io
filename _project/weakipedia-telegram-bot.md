@@ -26,7 +26,7 @@ Despite having 'Weak' as part of its name, Weakipedia is no slouch! Weakipedia i
 
 ##### Example Response
 
-![wiki](/static/projects/weakipedia-telegram-bot/image/wiki_bot_wiki.gif)
+![wiki](/static/projects/weakipedia_telegram_bot/image/wiki_bot_wiki.gif)
 
 ___
 

@@ -1,6 +1,6 @@
 ---
 layout: project_single
-title:  "Remindeer Telegram Bot - Reminder Bot"
+title:  "Remindeer Telegram Bot"
 slug: "remindeer-telegram-bot"
 ---
 
