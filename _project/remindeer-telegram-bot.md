@@ -109,6 +109,6 @@ ___
 ___
 
 ## Future Development Plan
-- [ ] Snooze button
+- [x] Snooze button
 - [ ] Multiple delete
-- [ ] Reminder repitition
+- [ ] Reminder repetition

@@ -13,7 +13,7 @@
 		"image": "placeholder.jpg",
 		"url": "https://github.com/KhorSL/Remindeer-python",
 		"date": "Aug 2019",
-		"tags": ["Python","Telegram","Bot"]
+		"tags": ["Python","Telegram","Bot","Ongoing"]
 	},
 	{
 		"slug": "weakipedia-telegram-bot",
@@ -23,5 +23,12 @@
 		"date": "Aug 2019",
 		"tags": ["Python","Telegram","Bot"]
 	}
-
+	{
+		"slug": "asciifyer-telegram-bot",
+		"name": "ASCIIFYER Telegram Bot",
+		"image": "asciifyer_telegram_bot/image/asciifyer_cover_art.png",
+		"url": "https://github.com/KhorSL/ASCIIFYER-python",
+		"date": "Aug 2019",
+		"tags": ["Python","Telegram","Bot"]
+	}
 ]
